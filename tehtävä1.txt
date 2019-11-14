@@ -1,0 +1,11 @@
+Sovelluksen pitäisi tallentaa kaupan tuotteiden tietoja mm. hinta, mistö tuote on tilattu, kuka tuotteen tilasi ja paljonko tuotetta on. 
+
+Tietoja voisi hyödyntää esim. millaisia tuotteita kannattaisi myydä tai millaisia tuotteita kannattaa pistää myyntiin. 
+
+Tietovaraston tietoturva = ovat turvallisesti suojattua ettei niihin pääse käsiksi liian helposti. 
+
+Tietovaraston suorituskyky = nopea jos täyttö käynnissä mutta softa kaatui, niin koko hommaa ei tarvitse aloittaa alusta. Suorituskyky käsittelee myös varaston tilaa. 
+
+Tietovaston eheys = Tallennuksen jälkeen tiedot eivät ole enää muutettavissa. 
+
+Tietovaraston pysyvyys. Transaktion sitoutumisen jälkeen muutoksen eiväät häviä tiedostosta. 
