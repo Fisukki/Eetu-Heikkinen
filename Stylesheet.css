@@ -1,0 +1,32 @@
+body{
+    background-color: lavender;
+}
+.alusta2{
+    background-color: darkkhaki;
+}
+.otsikko{
+    font-family: Arial, Helvetica, sans-serif;;
+}
+.otsikko{
+    font-size: 20px;
+}
+.kategoriat{
+    background-color: darkkhaki;
+}
+.alusta2{
+    border-style: solid;
+    border-width: 1px;
+}
+.kategoriat{
+    border-style: dotted;
+    border-width: 3px;
+}
+ul {
+    list-style-image: url('perfect.gif');
+    
+  }
+  .yksi{
+      border-style: solid;
+      border-width: 3px;
+      border-color: grey;;
+  }
